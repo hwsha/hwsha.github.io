@@ -10,9 +10,8 @@ I'm Chedi Chared (aka sha), a full time cybersecurity consultant that specialize
 
 The following is just some of the wide range of topics I hope to discuss and cover.
 
-* Smart home tech and gadgets
-* Home Automation
-* HomeLab
-* DevOps
+* Penetration Testing
+* Red Teaming
+* Bug Bounty
 * Artificial Intelligence
-* Modern Work + Security <i>(some more work related content)</i>
+* Cybersecurity Certifications
